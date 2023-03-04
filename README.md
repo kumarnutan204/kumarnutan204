@@ -5,6 +5,10 @@
 - 👯 I’m looking to collaborate on Web Development.
 - 💬 Ask me about Cloud and AWS
 
+
+<br>
+<br>
+
 <h2>Tech:</h2>
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
@@ -24,7 +28,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" id="gitimg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
+<br>
+<br>
 
-<h2>Github Title</h2>
+<h2>Github Stats</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumarnutan204&theme=dark&border_radius=4.9&background=000000&ring=EB851E)](https://git.io/streak-stats)
