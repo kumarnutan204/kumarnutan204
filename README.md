@@ -7,6 +7,7 @@
 
 
 <br>
+<hr>
 <br>
 
 <h2>Tech:</h2>
@@ -29,6 +30,7 @@
   
 </div>
 <br>
+<hr>
 <br>
 
 <h2>Github Stats</h2>
