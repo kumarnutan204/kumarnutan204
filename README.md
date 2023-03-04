@@ -26,5 +26,4 @@
   
 </div>
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kumarnutan204&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumarnutan204&theme=dark&border_radius=4.9&background=000000&ring=EB851E)](https://git.io/streak-stats)
