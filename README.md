@@ -6,11 +6,11 @@
 - 💬 Ask me about Cloud and AWS
 <hr>
 
-<hr>
+<!-- <hr>
 <h2>Github Stats:</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumarnutan204&theme=dark&border_radius=4.9&background=000000&ring=EB851E)](https://git.io/streak-stats)
-
+ -->
 
 
 <hr>
@@ -21,7 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarnutan204&label=Profile%20views&color=0e75b6&style=flat" alt="kumarnutan204" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnutan204" alt="kumarnutan204" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnutan204" alt="kumarnutan204" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,7 @@
 <a href="https://instagram.com/shutterbug_nk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shutterbug_nk" height="30" width="40" /></a>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarnutan204&show_icons=true&locale=en&layout=compact" alt="kumarnutan204" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarnutan204&show_icons=true&locale=en&layout=compact" alt="kumarnutan204" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarnutan204&show_icons=true&locale=en" alt="kumarnutan204" /></p>
 
